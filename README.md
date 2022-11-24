@@ -8,8 +8,18 @@ In this analysis we took a dataset from a set of databases from Amazon's AWS. We
 ---
 ## Results ##
 ---
-- How many Vine reviews and non-Vine reviews were there?
+- Vine reviews
 ---
 ![totalpaid](images/totalpaid.JPG)
 ![paid5](images/paid5star.JPG)
 ![paidpercent](images/paidpercent.JPG)
+---
+- Non Vine reviews
+---
+![totalunpaid](images/totalunpaid.JPG)
+![unpaid5](images/unpaid5star.JPG)
+![unpaidpercent](images/unpaidpercent.JPG)
+---
+## Summary ##
+---
+In conclusion, we can see that 51% of the Vine reviews are 5 star reviews. Where in contrast the unpaid reviews only had 38% of 5 star reviews. This tells us that the program is a net positive for the overall reviews by a difference of 13%.
