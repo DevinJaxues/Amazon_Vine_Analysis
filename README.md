@@ -9,4 +9,4 @@ In this analysis we took a dataset from a set of databases from Amazon's AWS. We
 ## Results ##
 ---
 - How many Vine reviews and non-Vine reviews were there?
-  -
+  -![totalpaid](images/totalpaid.JPG)
